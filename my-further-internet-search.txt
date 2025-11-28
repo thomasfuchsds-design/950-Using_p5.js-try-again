@@ -6,10 +6,18 @@
 ### .. or links
 ### =====================================================
 
-# how to fix problems with audio for my local Windows10+
+### 1. Windows
+### 1.1 LINUX is anyway better than Windows, 
+###     .. but Marketing of Belinda & Bill Gates Foundation rules the BusinessWorld
+###     .. of Consumer Market
+[2025-11-28@link-with-history-of-both ... ]: "https://www.youtube.com/watch?v=WuSgJMghp-I"
+
+### 1.2. Windows WSL Ubuntu cannot easily say how to install free mp3 libraries!!!
+###      .. how to fix problems with audio for my local Windows10+
 [2025-11-27@google:search-for ........... ]: "windows wsl ubuntu audio mp3 lame"
 
-# google: see-also: title: "Batch Convert Lossless Audio to MP3 on Windows 10 WSL using FFmpeg Script"
+### 1.2.1 Batch convert audio file
+###       .. @title: "Batch Convert Lossless Audio to MP3 on Windows 10 WSL using FFmpeg Script"
 [2025-11-28@link-could-also-be-helpful .. ]: "https://www.youtube.com/watch?v=ksjG6iky50w&t=30s"
 
 
