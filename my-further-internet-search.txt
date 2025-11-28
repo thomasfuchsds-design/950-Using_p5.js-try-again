@@ -29,6 +29,9 @@
 ###       .. @title: "Batch Convert Lossless Audio to MP3 on Windows 10 WSL using FFmpeg Script"
 [2025-11-28@link-could-also-be-helpful .. ]: "https://www.youtube.com/watch?v=ksjG6iky50w&t=30s"
 
+### 1.3.1 Github unter Windows for Euthanasie Patienten (unmöglich?)
+####      .. title: "SSH-Key für GitHub-Repositories einrichten"
+[2025-11-26@discovered this infos ....... ]: "https://www.heise.de/tipps-tricks/SSH-Key-fuer-GitHub-Repositories-einrichten-4627459.html"
 
 ### =====================================================
 ### *** ___FILE_FOOTER___ ***
