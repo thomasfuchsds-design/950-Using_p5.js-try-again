@@ -1,5 +1,6 @@
 
 ### =====================================================
+### *** ___FILE_HEADER___ ***
 ### list of my internet searches:
 ### .. with google or other search engines,
 ### .. or links
@@ -12,3 +13,10 @@
 [2025-11-28@link-could-also-be-helpful .. ]: "https://www.youtube.com/watch?v=ksjG6iky50w&t=30s"
 
 
+### =====================================================
+### *** ___FILE_FOOTER___ ***
+### =====================================================
+###
+# ___END_OF_FILE___
+#
+#
