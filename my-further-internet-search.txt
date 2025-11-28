@@ -5,6 +5,10 @@
 ### .. or links
 ### =====================================================
 
-[2025-11-27@google:search-for] windows wsl ubuntu audio mp3 lame
+# how to fix problems with audio for my local Windows10+
+[2025-11-27@google:search-for ........... ]: "windows wsl ubuntu audio mp3 lame"
+
+# google: see-also: title: "Batch Convert Lossless Audio to MP3 on Windows 10 WSL using FFmpeg Script"
+[2025-11-28@link-could-also-be-helpful .. ]: "https://www.youtube.com/watch?v=ksjG6iky50w&t=30s"
 
 
