@@ -6,7 +6,11 @@
 ### .. or links
 ### =====================================================
 
-### 0. Mathematics is the fundamental art <<< angels=[Euler, ...]
+### 0.* Mathematics is the fundamental art <<< angels=[Euler, ...]
+
+### 0.0.* TriState(3 aus 5) as regular hardware, not yet quantum ( < 26 ... )
+### 0.0.2 Colossus: title: "New Colossus: World's Largest AI Datacenter Isn’t What It Seems"
+[2025-11-25@discovered this infos ....... ]: https://www.youtube.com/watch?v=RxuSvyOwVCI
 
 ### 0.1 Euler, @title: "The most beautiful equation in math, explained visually [Euler’s Formula]"
 [2025-11-27@discovered this infos ....... ]: "https://www.youtube.com/watch?v=f8CXG7dS-D0"
