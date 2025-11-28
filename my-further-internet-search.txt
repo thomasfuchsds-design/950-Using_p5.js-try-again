@@ -26,6 +26,9 @@
 ### 0.2.1 Python! Online-Docu English, Version: 3.14
 [2025-11-25@discovered this infos ....... ]: "https://docs.python.org/3/contents.html"
 
+### 0.3.1 title: "How benzene changed chemistry forever - with Judy Wu"
+[2025-11-28@discovered this infos ....... ]: "https://www.youtube.com/watch?v=0kYMUFzylOs"
+
 
 ### 1. Windows <<< devils(worstOS)=[Bill_Gates, Mark_Zuckerber, Elon_Musk]
 ### 1.1 LINUX is anyway better than Windows, 
